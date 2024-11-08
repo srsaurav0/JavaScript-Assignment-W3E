@@ -22,4 +22,14 @@ Save Option: Users can save content, and the saved state remains unchanged even 
 Full Gallery and Image View: Users can view a complete image gallery and select images for full-screen viewing. Navigation options allow moving to the previous or next image within the full-view mode.
 Travelers Selection: Users can specify the number of travelers when booking rooms,
 
+## Run Project
+To run this project, you need to follow these steps:
+
+    At first go to the directory you want to save my repository and open Git Bash there.
+    Initialize git with the command: git init
+    Then clone the repository with the command:git clone https://github.com/srsaurav0/HTML_CSS_Assignment.git
+    Navigate to the directory with command: cd HTML_CSS_Assignment
+    Open the Project in a Code Editor (Optional). To open the directory in Visual Studio Code, enter command: code .
+    Open the file HomePage.html and run it to visit the website.
+
 
