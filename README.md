@@ -16,17 +16,10 @@ This repository contains the source code for a JavaScript assignment focusing on
 
 
 ## Features
-- Feature 1: Description of what it does
-- Feature 2: Description of what it does
-- Feature 3: Description of what it does
+Responsive Region and Currency Selection: Users can choose their preferred region and currency.
+Responsive Share and Copy Link Options: Users can copy the link and share content easily.
+Save Option: Users can save content, and the saved state remains unchanged even after the page is reloaded.
+Full Gallery and Image View: Users can view a complete image gallery and select images for full-screen viewing. Navigation options allow moving to the previous or next image within the full-view mode.
+Travelers Selection: Users can specify the number of travelers when booking rooms,
 
-## Prerequisites
-Before you begin, ensure you have met the following requirements:
-- Node.js installed (if backend involved)
-- Any other specific dependencies or requirements
 
-## Installation
-To install the necessary packages for this project, run the following command:
-
-```bash
-npm install
